@@ -3,7 +3,7 @@ import nl.saxion.app.SaxionApp;
 import java.awt.*;
 
 public class Application implements Runnable {
-
+    //als je dit kan zien, werkt mijn programma
     // Size of each cell
     static final int size = 30;
 
